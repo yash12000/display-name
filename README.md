@@ -10,6 +10,7 @@ A simple React component that takes a name as a prop and displays "Hello, {name}
 1️⃣ Clone the Repository
 
 git clone https://github.com/yash12000/display-name.git
+
 cd display-name
 
 2️⃣ Install Dependencies
