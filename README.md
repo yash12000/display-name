@@ -1,9 +1,12 @@
 React Display Name Component
+
 A simple React component that takes a name as a prop and displays "Hello, {name}!" on the page.
 
 📌 Features
 ✔️ Reusable React Component
+
 ✔️ Dynamic name rendering via props
+
 ✔️ Simple and lightweight
 
 📌 Installation & Usage
